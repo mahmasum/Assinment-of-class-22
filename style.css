@@ -1,0 +1,40 @@
+.header a{
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+.header li{
+    display: inline-block;
+    padding: 10px 20px;
+
+}
+.header li a{
+    text-decoration: none;
+}
+.baner{
+    background-image: url('./Tony-Stark.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    padding: 250px;
+
+}
+.about-section{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.about-section img{
+    max-width: 100%;
+}
+.about-section span{
+    font-size: 20px;
+}
+.imd{
+    padding-top: 10px;
+}
+.foter{
+    padding: 20px 0;
+}
+.foter p{
+    margin: 0;
+}
